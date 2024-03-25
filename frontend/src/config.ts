@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://backend2.mailtome9911.workers.dev"
